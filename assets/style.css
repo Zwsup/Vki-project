@@ -15,7 +15,6 @@ body{
     font-size: 50px;
 }
 .form-section{
-    border: 1px solid black;
     width: 100%;
     height: auto;
     display: flex;
@@ -23,7 +22,6 @@ body{
 
 }
 .form-sectionn{
-    border: 1px solid black;
     width: 100%;
     height: auto;
     display: flex;
@@ -31,7 +29,6 @@ body{
     margin-top: 10px;
 }
 .formm{
-    border: 1px solid black;
     width: auto;
     height: auto;
     font-size: 20px;
