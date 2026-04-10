@@ -20,9 +20,24 @@ body{
     height: auto;
     display: flex;
     justify-content: center;
+
+}
+.form-sectionn{
+    border: 1px solid black;
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
 }
 .formm{
     border: 1px solid black;
-    width: 700px;
+    width: auto;
     height: auto;
+    font-size: 20px;
+}
+
+.form,input{
+    font-size: 18px;
+
 }
