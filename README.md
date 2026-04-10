@@ -1,0 +1,1 @@
+A simple Body Mass Index (BMI) calculator built with JavaScript that calculates a user’s BMI based on height and weight and displays the result instantly.
