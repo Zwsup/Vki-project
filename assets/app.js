@@ -42,7 +42,7 @@ function hesapla(){
         }
 
         document.getElementById("sonuc").innerHTML=
-        "BMI: " +bmi+"<br>"+
+        "BMI: " +bmi.toFixed(2)+"<br>"+
         "Durum: " + durum + "<br>"+
         "Yaş: " + yas +"<br>"+
         "Kilo: "+ kilo + "<br>"+
